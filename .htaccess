@@ -1,1 +1,2 @@
 Redirect permanent /list/.git/ /list/
+Redirect permanent /list/conf/ /list/
